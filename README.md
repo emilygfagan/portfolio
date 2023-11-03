@@ -4,7 +4,7 @@ Here you will find links to my projects using my technical skills: MS Excel, Pow
 This repository serves to showcase my skills and learn from others!
 
 ## Portfolio Projects
-In this section I will link my data analytics projects with a brief explanation, skills used, technology used, and results.
+Linked below are my favorite projects. I included a brief explanation, skills used, technology used, and results/what I learned.
 
 ### Video Game Sales Analysis - Excel
 **Excel File:**  
@@ -80,8 +80,9 @@ In this section I will link my data analytics projects with a brief explanation,
 **Technology Used:** Python, NumPy, Pandas  
 **Results:** 
 
+
 ## Study Projects
-This section is for the small projects I completed over the course of my self-learning of data analytics. Each project contains a link, brief explanation, skills used, and results.
+Linked below are practice/small projects. Below each project name is a link to my code and brief description.
 
 ### France Travel - Python
 **Code:**  
