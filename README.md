@@ -1,10 +1,10 @@
 # Emily Fagan - Data Analytics Portfolio
-Here you will find links to my projects using my technical skills: MS Excel, PowerPoint, Python, Pandas, Numpy, SQL (MySQL, PostgreSQL, BigQuery), Tableau, and R.
+Technical Skills: MS Excel, PowerPoint, Python, Pandas, Numpy, SQL (MySQL, PostgreSQL, BigQuery), Tableau, and R.
 
-This repository serves to showcase my skills and learn from others!
+This repository serves to showcase my skills.
 
 ## Portfolio Projects
-Linked below are my favorite projects. I included a brief explanation, skills used, technology used, and results/what I learned.
+Linked below are my favorite projects. I include a brief explanation, skills used, technology used, and results/what I learned.
 
 ### Video Game Sales Analysis - Excel
 **Excel File:**  
@@ -81,8 +81,8 @@ Linked below are my favorite projects. I included a brief explanation, skills us
 **Results:** 
 
 
-## Study Projects
-Linked below are practice/small projects. Below each project name is a link to my code and brief description.
+## Study/Practice Projects
+Below each project name is a link to my code and a brief description.
 
 ### France Travel - Python
 **Code:**  
