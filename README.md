@@ -11,7 +11,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Presentation:**  
 **Description:** The dataset contains video game sales data from 2015-2020. Analyzed data to find information on market share and most popular games by geographical location.   
 **Skills Used:** clean data, sort data, learning data types, measures of central tendencies, box plots, skewness  
-**Technology Used:** MS Excel, PowerPoint  
+**Technology Used:** MS Excel, PowerPoint, Canva  
 **Results:**  
 
 ### Automobile Sales Analysis - Excel
