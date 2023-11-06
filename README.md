@@ -17,6 +17,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 ### Automobile Sales Analysis - Excel
 **Presentation:** [Automobile Sales Analysis](https://github.com/emilygfagan/excel/blob/main/Automobile_Sales_Analysis.pdf)   
+**Excel File Assignment:** [Automobile Sales Excel Assignment](https://github.com/emilygfagan/excel/blob/main/Automobile_Sales_Assignment.xlsx)
 **Data Used:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Automobile_Sales_Analysis_Raw.xlsx)  
 **Description:** The dataset contains car models and variants. I analyzed the data to find what specs affect gas mileage, made predictions on which car model would be the most family-friendly, found the most popular car bodytype, and visualized the manufacturers with the most car variants.     
 **Skills Used:** choosing the appropriate chart, using visualizations in Excel, cleaning data, determining what to do with missing/incorrect data, predicting    
