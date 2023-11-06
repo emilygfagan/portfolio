@@ -91,6 +91,12 @@ Below each project name is a link to my code and a brief description.
 **Description:** Analyzing employee data that includes satisfaction levels based on a survey. I was tasked with finding information about employees using XLOOKUP, analyzing employee satisfaction levels, filtering data on the employees that are working on too many projects at once, and finding the minimum, maximum, and average number of projects that each employee is currently working on.   
 **Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA   
 
+### University Data - Excel
+**Excel File:** [Practice 2](https://github.com/emilygfagan/excel/blob/main/Practice_2.xlsx)      
+**Data:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Practice_2_Raw_Data.xlsx)    
+**Description:** Analyzing employee data that includes satisfaction levels based on a survey. I was tasked with finding information about employees using XLOOKUP, analyzing employee satisfaction levels, filtering data on the employees that are working on too many projects at once, and finding the minimum, maximum, and average number of projects that each employee is currently working on.   
+**Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA
+
 ### France Travel - Python
 **Code:**  
 **Description:** The dataset contains   
