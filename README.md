@@ -7,7 +7,7 @@ This repository serves to showcase my skills.
 Linked below are my favorite projects. I include a brief explanation, skills used, technology used, and results/what I learned.
 
 ### Video Game Sales Analysis - Excel   
-**Presentation:** [Video Game Sales Analysis](https://github.com/emilygfagan/excel/blob/main/Video%20Game%20Sales%20Analysis.pdf)
+**Presentation:** [Video Game Sales Analysis](https://github.com/emilygfagan/excel/blob/main/Video%20Game%20Sales%20Analysis.pdf)    
 **Excel File Assignment:** [Video Game Sales Excel Assignment](https://github.com/emilygfagan/excel/blob/main/Video_Game_Sales_Assignment.xlsx)   
 **Data:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Video_Game_Sales_Raw.xlsx)  
 **Tableau Visualization:** [Tableau Public - Video Game Sales Analysis](https://public.tableau.com/app/profile/emi.fagan/viz/VideoGameSalesAnalysis_16991416886150/1)   
