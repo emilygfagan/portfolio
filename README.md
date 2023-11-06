@@ -7,14 +7,13 @@ This repository serves to showcase my skills.
 Linked below are my favorite projects. I include a brief explanation, skills used, technology used, and results/what I learned.
 
 ### Video Game Sales Analysis - Excel   
+**Presentation:** [Video Game Sales Analysis](https://github.com/emilygfagan/excel/blob/main/Video%20Game%20Sales%20Analysis.pdf)
 **Excel File Assignment:** [Video Game Sales Excel Assignment](https://github.com/emilygfagan/excel/blob/main/Video_Game_Sales_Assignment.xlsx)   
-**Presentation:** [Video Game Sales Analysis](https://github.com/emilygfagan/excel/blob/main/Video%20Game%20Sales%20Analysis.pdf)   
 **Data:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Video_Game_Sales_Raw.xlsx)  
 **Tableau Visualization:** [Tableau Public - Video Game Sales Analysis](https://public.tableau.com/app/profile/emi.fagan/viz/VideoGameSalesAnalysis_16991416886150/1)   
-**Description:** The dataset contains video game sales data from 2015-2020. Analyzed data to find information on market share and most popular games by geographical location.    
+**Description:** The dataset contains video game sales data from 2015-2020. Analyzed data to find information on market share and most popular games by geographical location. Included in this project is the raw data excel file, a presentation I made on the first 8 tasks of the analysis, and the last 5 tasks of the analysis.      
 **Skills Used:** clean data, sort data, learning data types, measures of central tendencies, box plots, skewness   
 **Technology Used:** MS Excel, Canva, Tableau   
-**Results:** Included in this project is the raw data excel file, a presentation I made on the first 8 tasks of the analysis, and the last 5 tasks of the analysis.      
 
 ### Automobile Sales Analysis - Excel
 **Excel File:**  
