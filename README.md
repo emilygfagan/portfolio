@@ -31,12 +31,10 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Technology Used:** MySQL, MS Excel   
 
 ### Employee Bonuses Database Management - MySQL
-**Code:**  
-**Pdf File with Pictures:**  
+**Code:** [Managing Employee Bonuses](https://github.com/emilygfagan/sql/blob/main/Managing_Employee_Bonuses.sql)  
 **Description:** Database contains employee data. Used the data to run queries to pull reports with conditions and exported tables to Excel files.    
 **Skills Used:** filter data using queries, aggregate functions  
-**Technology Used:** MySQL, MS Excel  
-**Results:**  
+**Technology Used:** MySQL, MS Excel    
 
 ### New Company Hybrid Work Model - MySQL
 **Code:** [Hybrid Work Model - SQL](https://github.com/emilygfagan/sql/blob/main/Hybrid_Work_Model.sql)   
