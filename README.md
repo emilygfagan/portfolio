@@ -24,7 +24,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Technology Used:** MS Excel, Canva  
 
 ### Managing Car Sales Database - MySQL
-**Code:** [Managing Car Sales - SQL](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales.sql)    
+**Code:** [Managing Car Sales](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales.sql)    
 **PDF with Pictures:** [Managing Car Sales (with pictures)](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales.pdf)    
 **Description:** The raw data contained car company sales data. I used this data to create a database, created tables and inserted data into tables, updated tables based on calculations, and created a backup database.   
 **Skills Used:** creating and manipulating database objects, SQL constraints, understanding databases and elements in a database  
@@ -37,7 +37,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Technology Used:** MySQL, MS Excel    
 
 ### New Company Hybrid Work Model - MySQL
-**Code:** [Hybrid Work Model - SQL](https://github.com/emilygfagan/sql/blob/main/Hybrid_Work_Model.sql)   
+**Code:** [Hybrid Work Model](https://github.com/emilygfagan/sql/blob/main/Hybrid_Work_Model.sql)   
 **Description:** Database contains employee data. Used the data to pull reports and join tables together based on primary keys. SQL file includes comments about why I wrote the commands to explain my thought process.   
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys   
 **Technology Used:** MySQL, Excel  
@@ -94,7 +94,7 @@ Below each project name is a link to my code and a brief description.
 **Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA, measures of central tendency, outliers, box and whisker plots   
 
 ### HR Data - SQL
-**Code:** [Practice 7](https://github.com/emilygfagan/sql/blob/main/Practice_7.sql)   
+**Code:** [Practice 3](https://github.com/emilygfagan/sql/blob/main/Practice_7.sql)   
 **Description:** Database contains HR data. I was tasked with analyzing the data for the HR department. SQL file includes comments about why I wrote the commands to explain my thought process.        
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys    
 **Technology Used:** MySQL, Excel    
