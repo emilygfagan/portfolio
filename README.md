@@ -20,16 +20,14 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Excel File Assignment:** [Automobile Sales Excel Assignment](https://github.com/emilygfagan/excel/blob/main/Automobile_Sales_Assignment.xlsx)    
 **Data Used:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Automobile_Sales_Analysis_Raw.xlsx)  
 **Description:** The dataset contains car models and variants. I analyzed the data to find what specs affect gas mileage, made predictions on which car model would be the most family-friendly, found the most popular car bodytype, and visualized the manufacturers with the most car variants.     
-**Skills Used:** choosing the appropriate chart, using visualizations in Excel, cleaning data, determining what to do with missing/incorrect data, predicting    
+**Skills Used:** choosing the appropriate chart, using visualizations in Excel, cleaning data, determining what to do with missing/incorrect data, predicting  
 **Technology Used:** MS Excel, Canva  
 
 ### Managing Car Sales Database - MySQL
-**Code:**  
-**Pdf File with Pictures:**  
+**Code:** [Managing Car Sales](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales.sql)    
 **Description:** The raw data contained car company sales data. I used this data to create a database, created tables and inserted data into tables, updated tables based on calculations, and created a backup database.   
 **Skills Used:** creating and manipulating database objects, SQL constraints, understanding databases and elements in a database  
-**Technology Used:** MySQL, MS Excel  
-**Results:**  
+**Technology Used:** MySQL, MS Excel   
 
 ### Employee Bonuses Database Management - MySQL
 **Code:**  
