@@ -41,7 +41,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 ### New Company Hybrid Work Model - MySQL
 **Code:** [Hybrid Work Model - SQL](https://github.com/emilygfagan/sql/blob/main/Hybrid_Work_Model.sql)   
-**Description:** Database contains employee data. Used the data to pull reports and join tables together based on primary keys.  
+**Description:** Database contains employee data. Used the data to pull reports and join tables together based on primary keys. SQL file includes comments about why I wrote the commands to explain my thought process.   
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys   
 **Technology Used:** MySQL, Excel  
 
