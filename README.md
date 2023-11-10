@@ -96,6 +96,12 @@ Below each project name is a link to my code and a brief description.
 **Description:** Analyzing historical placement data from Harvard University, Boston University, and Washington University to help a student determine their best option for college based on scholarships given and tuition fees. I was tasked with determining the major that provides graduates with the widest range in salary upon graduation, using measures of central tendency to compare compensation packages given to graduates in different age groups, finding the maximum age that graduates are recruited for employment, and the month in which the highest number of graduates received job offers.   
 **Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA, measures of central tendency, outliers, box and whisker plots   
 
+### HR Data - SQL
+**Code:** [Practice 7](https://github.com/emilygfagan/sql/blob/main/Practice_7.sql)   
+**Description:** Database contains HR data. I was tasked with analyzing the data for the HR department. SQL file includes comments about why I wrote the commands to explain my thought process.        
+**Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys    
+**Technology Used:** MySQL, Excel    
+
 ### France Travel - Python
 **Code:**  
 **Description:** The dataset contains   
