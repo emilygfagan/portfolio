@@ -24,7 +24,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Technology Used:** MS Excel, Canva  
 
 ### Managing Car Sales Database - MySQL
-**Code:** [Managing Car Sales](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales.sql)    
+**Code:** [Managing Car Sales - SQL](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales.sql)    
 **Description:** The raw data contained car company sales data. I used this data to create a database, created tables and inserted data into tables, updated tables based on calculations, and created a backup database.   
 **Skills Used:** creating and manipulating database objects, SQL constraints, understanding databases and elements in a database  
 **Technology Used:** MySQL, MS Excel   
