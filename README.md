@@ -4,7 +4,7 @@
 This repository serves to showcase my skills.
 
 ## Portfolio Projects
-Linked below are my favorite projects. I include a brief explanation, skills used, technology used, and results/what I learned.
+Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
 
 ### Video Game Sales Analysis - Excel   
 **Presentation:** [Video Game Sales Analysis](https://github.com/emilygfagan/excel/blob/main/Video%20Game%20Sales%20Analysis.pdf)    
