@@ -5,15 +5,6 @@ This repository serves to showcase my skills and how I approach problems.
 
 My Resume in pdf     
 
-## Table of Contents     
-  - [About](https://github.com/emilygfagan/portfolio/blob/main/README.md#emily-fagan---data-analytics-portfolio)        
-  - Excel Projects      
-        - [Video Game Sales Analysis](https://github.com/emilygfagan/portfolio#video-game-sales-analysis---excel)      
-        - [Automobile Sales Analysis](https://github.com/emilygfagan/portfolio#automobile-sales-analysis---excel)     
-        - [Employee Data](https://github.com/emilygfagan/portfolio#employee-data---excel)     
-        - [University Data](https://github.com/emilygfagan/portfolio#university-data---excel)
-
-
 ## Portfolio Projects
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
 
