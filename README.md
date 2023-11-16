@@ -105,6 +105,12 @@ Below each project name is a link to my code and a brief description.
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys    
 **Technology Used:** MySQL, Excel    
 
+### Beginner Essentials - SQL
+**Code:** [Practice 4](https://github.com/emilygfagan/sql/blob/main/General_Challenge_1.sql)     
+**Description:** First challenge from Udemy's Complete SQL Bootcamp course. Learned PostgreSQL commands and basics of retrieving information.     
+**Skills Used:** select, select distinct, order by, between, limit, as, like     
+**Technology Used:** PostgreSQL     
+
 ### France Travel - Python
 **Code:**  
 **Description:** The dataset contains   
