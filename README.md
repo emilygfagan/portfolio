@@ -44,43 +44,43 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 ### Office Supply Company KPI Dashboard - Tableau     
 **Dashboard Link:**     
-**Raw Data:** [Office Supply Raw Data](https://github.com/emilygfagan/tableau/blob/main/Office_Supply_Company.csv)     
-**Skills Used:**     
+**Raw Data:** [Office Supply Raw Data](https://github.com/emilygfagan/tableau/blob/main/Office_Supply_Company.csv)      
+**Skills Used:**      
 **Technology Used:** Tableau Public     
 
 ### Employee/E-Commerce Data Analysis - Python
 **Code:**  
-**Description:** Analyzing data on employee names and their ages using NumPy as well as E-commerce customer data for the same company.  
-**Skills Used:** 1D and 2D NumPy arrays, reading data from .csv files, creating and manipulating NumPy arrays  
-**Technology Used:** Python, NumPy  
+**Description:** Analyzing data on employee names and their ages using NumPy as well as E-commerce customer data for the same company.    
+**Skills Used:** 1D and 2D NumPy arrays, reading data from .csv files, creating and manipulating NumPy arrays     
+**Technology Used:** Python, NumPy    
 **Results:**  
 
 ### Vintage Car Sales - Python
 **Code:**  
-**Description:** Analyzing vintage car sales data using Pandas.   
-**Skills Used:** Pandas Series, Pandas DataFrame, manipulating Series, creating DataFrames using Series 
-**Technology Used:** Python, NumPy, Pandas  
-**Results:**  
+**Description:** Analyzing vintage car sales data using Pandas.    
+**Skills Used:** Pandas Series, Pandas DataFrame, manipulating Series, creating DataFrames using Series     
+**Technology Used:** Python, NumPy, Pandas   
+**Results:**   
 
 ### Bank Loan Prediction - Python
 **Code:**  
 **Description:** Analyzing historical loan data from a bank to predict whether certain candidates are likely to receive a loan.    
-**Skills Used:** reading data from files and converting them to DataFrames, manipulating DataFrames
+**Skills Used:** reading data from files and converting them to DataFrames, manipulating DataFrames     
 **Technology Used:** Python, NumPy, Pandas  
 **Results:**  
 
 ### Used Car Sales - Python
 **Code:**  
 **Description:** Assisting customers choose a used car based on their preferences.    
-**Skills Used:** Pandas Series, Pandas DataFrame, manipulating Series, creating DataFrames using Series 
-**Technology Used:** Python, NumPy, Pandas  
+**Skills Used:** Pandas Series, Pandas DataFrame, manipulating Series, creating DataFrames using Series    
+**Technology Used:** Python, NumPy, Pandas    
 **Results:**  
 
 ### Passenger Car Analysis - Python
 **Code:**  
 **Description:** Using historical car sales data to analyze passenger cars and the correlations between features and gas mileage.   
-**Skills Used:** preprocessing data, cleaning data using measures of central tendency  
-**Technology Used:** Python, NumPy, Pandas  
+**Skills Used:** preprocessing data, cleaning data using measures of central tendency     
+**Technology Used:** Python, NumPy, Pandas     
 **Results:** 
 
 
