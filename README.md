@@ -131,6 +131,12 @@ Below each project name is a link to my code and a brief description.
 **Skills Used:** import data, export data     
 **Technology Used:** PostgreSQL, Google Sheets     
 
+## NULLIF Example - SQL
+**Code:** [Practice 7](https://github.com/emilygfagan/sql/blob/main/NULLIF.sql)          
+**Description:** Practiced NULLIF functionality by creating a new database and table and deleting particular information to show what happens in a situation where the NULLIF function is needed.     
+**Skills Used:** create table, insert into, sum, case, nullif     
+**Technology Used:** PostgreSQL     
+
 ### France Travel - Python
 **Code:**  
 **Description:** The dataset contains   
