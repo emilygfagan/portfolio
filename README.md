@@ -123,6 +123,13 @@ Below each project name is a link to my code and a brief description.
 **Skills Used:** primary keys, foreign keys, create table, insert, update, alter, delete, drop, check constraint     
 **Technology Used:** PostgreSQL     
 
+### Import and Export Data - SQL
+**Code:** [Practice 7](https://github.com/emilygfagan/sql/blob/main/Import_Export.sql)     
+**Simple CSV File Created:** [Simple Table](https://github.com/emilygfagan/sql/blob/main/simple_table.csv)     
+**Description:** Learned and practiced the basics of uploading a csv file directly to an already existing PostgreSQL table and database. Created a csv file specifically for this demonstration.      
+**Skills Used:** import data, export data     
+**Technology Used:** PostgreSQL, Google Sheets     
+
 ### France Travel - Python
 **Code:**  
 **Description:** The dataset contains   
