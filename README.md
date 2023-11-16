@@ -3,6 +3,8 @@
 
 This repository serves to showcase my skills and how I approach problems.
 
+## Table of Contents     
+
 ## Portfolio Projects
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
 
