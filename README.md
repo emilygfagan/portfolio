@@ -42,6 +42,12 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys   
 **Technology Used:** MySQL, Excel  
 
+### Office Supply Company KPI Dashboard - Tableau     
+**Dashboard Link:**     
+**Raw Data:**     
+**Skills Used:**     
+**Technology Used:** Tableau Public     
+
 ### Employee/E-Commerce Data Analysis - Python
 **Code:**  
 **Description:** Analyzing data on employee names and their ages using NumPy as well as E-commerce customer data for the same company.  
