@@ -6,7 +6,7 @@ This repository serves to showcase my skills and how I approach problems.
 My Resume in pdf
 
 ## Table of Contents   
-  - [About](#emily-fagan-data-analytics-portfolio)     
+  - [About](https://github.com/emilygfagan/portfolio/blob/main/README.md#emily-fagan---data-analytics-portfolio)     
   - [Portfolio Projects](#portfolio-projects)     
 
 ## Portfolio Projects
