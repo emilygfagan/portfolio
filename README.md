@@ -118,8 +118,9 @@ Below each project name is a link to my code and a brief description.
 **Technology Used:** PostgreSQL     
 
 ### Beginner Database - SQL
-**Code:** [Practice 6](https://github.com/emilygfagan/sql/blob/main/Challenge_3.sql)     
-**Description:** Third general challenge from Udemy's Complete SQL Bootcamp course. Was tasked with creating a simple database from scratch. Learned the basics of adding columns to tables and the importance of data types.     
+**Code:** [Example 1](https://github.com/emilygfagan/sql/blob/main/Challenge_3.sql)     
+**Code:** [Example 2](https://github.com/emilygfagan/sql/blob/main/Section_8.sql)     
+**Description:** Third general challenge from Udemy's Complete SQL Bootcamp course. Was tasked with creating a simple database from scratch. Learned the basics of adding columns to tables and the importance of data types. Included two files to demonstrate knowledge of creating a database from scratch.          
 **Skills Used:** primary keys, foreign keys, create table, insert, update, alter, delete, drop, check constraint     
 **Technology Used:** PostgreSQL     
 
