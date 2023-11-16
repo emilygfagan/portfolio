@@ -3,7 +3,11 @@
 
 This repository serves to showcase my skills and how I approach problems.
 
-## Table of Contents     
+My Resume in pdf
+
+## Table of Contents   
+  - [About](#emily-fagan-data-analytics-portfolio)     
+  - [Portfolio Projects](#portfolio-projects)     
 
 ## Portfolio Projects
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
