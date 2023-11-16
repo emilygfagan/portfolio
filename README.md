@@ -44,7 +44,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 ### Office Supply Company KPI Dashboard - Tableau     
 **Dashboard Link:**     
-**Raw Data:**     
+**Raw Data:** [Office Supply Raw Data](https://github.com/emilygfagan/tableau/blob/main/Office_Supply_Company.csv)     
 **Skills Used:**     
 **Technology Used:** Tableau Public     
 
