@@ -8,7 +8,6 @@ My Resume in pdf
 ## Table of Contents   
   - [About](https://github.com/emilygfagan/portfolio/blob/main/README.md#emily-fagan---data-analytics-portfolio)     
   - [Portfolio Projects](#portfolio-projects)
-    +[Bike Share Capstone - R](#bike-share-capstone-r)     
 
 ## Portfolio Projects
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
