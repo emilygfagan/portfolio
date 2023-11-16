@@ -111,6 +111,12 @@ Below each project name is a link to my code and a brief description.
 **Skills Used:** select, select distinct, order by, between, limit, as, like     
 **Technology Used:** PostgreSQL     
 
+### CASE Statement - SQL
+**Code:** [Practice 5](https://github.com/emilygfagan/sql/blob/main/CASE.sql)     
+**Description:** From section 10 of Udemy's Complete SQL Bootcamp course. Discussed the CASE statement and the difference between the general syntax and the expression syntax. Provided both examples in code.     
+**Skills Used:** case     
+**Technology Used:** PostgreSQL     
+
 ### France Travel - Python
 **Code:**  
 **Description:** The dataset contains   
