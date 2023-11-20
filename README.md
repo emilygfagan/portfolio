@@ -1,7 +1,9 @@
 # Emily Fagan - Data Analytics Portfolio
 **Technical Skills:** MS Excel, PowerPoint, Python, SQL (MySQL, PostgreSQL, BigQuery), Tableau, and R.
 
-This repository serves to showcase my skills and how I approach problems.
+This repository serves to showcase my skills and how I approach problems.     
+
+**This repository is in progress!** I am working hard every day to upload and organize all my projects. My deadline to finish this portfolio in total completion will be **December 15th, 2023.**      
 
 My Resume in pdf     
 
@@ -9,9 +11,9 @@ My Resume in pdf
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
 
 ### Bike Share Capstone - R     
-**Presentation:**     
+**Presentation:** (In Progress)     
 **Raw Data Used:** [Link to datasets](https://divvy-tripdata.s3.amazonaws.com/index.html)          
-**Project Outline:**     
+**Project Outline:** (In Progress)     
 **Description:** Capstone project for Google Data Analytics Professional Certificate. Was given a scenario about a fictional bike-share company in Chicago that is looking to grow their company. Used historical data ranging from March 2020 - November 2023 all about the bike share's customers. Followed the data analysis process steps of ask, prepare, process, analyze, share, and act. Analyzed the data using R and developed visualizations and created a presentation to organize my work.     
 **Skills Used:** cleaning data, analyzing business task, creating suggestions for businesses, creating data visualizations in R, presenting data findings      
 **Technology Used:** MS Excel, R, Google Slides     
@@ -58,46 +60,11 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Skills Used:** creating dashboard, advanced formatting, calculated fields, percent change in year, key performance indicator analysis      
 **Technology Used:** Tableau Public     
 
-### Employee/E-Commerce Data Analysis - Python
-**Code:**  
-**Description:** Analyzing data on employee names and their ages using NumPy as well as E-commerce customer data for the same company.    
-**Skills Used:** 1D and 2D NumPy arrays, reading data from .csv files, creating and manipulating NumPy arrays     
-**Technology Used:** Python, NumPy    
-**Results:**  
 
-### Vintage Car Sales - Python
-**Code:**  
-**Description:** Analyzing vintage car sales data using Pandas.    
-**Skills Used:** Pandas Series, Pandas DataFrame, manipulating Series, creating DataFrames using Series     
-**Technology Used:** Python, NumPy, Pandas   
-**Results:**   
+## Study/Practice Projects   
+Below each project name is a link to my code and a brief description.      
 
-### Bank Loan Prediction - Python
-**Code:**  
-**Description:** Analyzing historical loan data from a bank to predict whether certain candidates are likely to receive a loan.    
-**Skills Used:** reading data from files and converting them to DataFrames, manipulating DataFrames     
-**Technology Used:** Python, NumPy, Pandas  
-**Results:**  
-
-### Used Car Sales - Python
-**Code:**  
-**Description:** Assisting customers choose a used car based on their preferences.    
-**Skills Used:** Pandas Series, Pandas DataFrame, manipulating Series, creating DataFrames using Series    
-**Technology Used:** Python, NumPy, Pandas    
-**Results:**  
-
-### Passenger Car Analysis - Python
-**Code:**  
-**Description:** Using historical car sales data to analyze passenger cars and the correlations between features and gas mileage.   
-**Skills Used:** preprocessing data, cleaning data using measures of central tendency     
-**Technology Used:** Python, NumPy, Pandas     
-**Results:** 
-
-
-## Study/Practice Projects
-Below each project name is a link to my code and a brief description.
-
-### Employee Data - Excel
+### Employee Data - Excel    
 **Excel File:** [Practice 1](https://github.com/emilygfagan/excel/blob/main/Practice_1.xlsx)   
 **Data:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Practice_1_Raw_Data.xlsx)    
 **Description:** Analyzing employee data that includes satisfaction levels based on a survey. I was tasked with finding information about employees using XLOOKUP, analyzing employee satisfaction levels, filtering data on the employees that are working on too many projects at once, and finding the minimum, maximum, and average number of projects that each employee is currently working on.   
@@ -147,42 +114,6 @@ Below each project name is a link to my code and a brief description.
 **Skills Used:** create table, insert into, sum, case, nullif     
 **Technology Used:** PostgreSQL     
 
-### France Travel - Python
-**Code:**  
-**Description:** The dataset contains   
-**Skills Used:** expressions, variables, using operators in expressions, operator precedence, conversionts  
-**Technology Used:** Python  
-**Results:**  
-
-### Interactive Games - Python
-**Code:**  
-**Description:** The dataset contains   
-**Skills Used:** implicit and explicit typecasting, conditional statements, accept input from user, indent code  
-**Technology Used:** Python  
-**Results:**  
-
-### Spelling Bee Competition - Python
-**Code:**  
-**Description:** The dataset contains   
-**Skills Used:** for loop, string indexing, inserting lists, creating lists, deleting items in lists, iterative statements  
-**Technology Used:** Python  
-**Results:**  
-
-### Multiple Choice Quiz - Python
-**Code:**  
-**Description:** Write a Python program to simulate a multiple choice quiz containing 10 questions.   
-**Skills Used:** while loop, control flow in loop, looping over data structures  
-**Technology Used:** Python  
-**Results:**  
-
-### Birthday Gift Voucher - Python
-**Code:**  
-**Description:** Use functions to write a Python program that combines the birthday voucher and holiday voucher of an employee if the holiday falls in the birthday month of the employee.  
-**Skills Used:** functions, function parameters, return values, function arguments, local and global variables, built in functions, functions inside a main  
-**Technology Used:** Python  
-**Results:**  
-**Technology Used:** Python
-**Results:**
 
 ## Contacts
 - LinkedIn: [emilygfagan](https://www.linkedin.com/in/emilygfagan/)
