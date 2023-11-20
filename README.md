@@ -4,8 +4,7 @@
 This repository serves to showcase my skills and how I approach problems.     
 
 **This repository is in progress!** I am working hard every day to upload and organize all my projects. My deadline to finish this portfolio in total completion will be **December 15th, 2023.**      
-
-My Resume in pdf     
+    
 
 ## Portfolio Projects
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
