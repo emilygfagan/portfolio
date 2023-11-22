@@ -55,9 +55,9 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 ### Office Supply Company KPI Dashboard     
 **Dashboard Link:** [KPI Dashboard](https://public.tableau.com/app/profile/emi.fagan/viz/KPIDashboard_17001661559060/Dashboard1)     
-**Raw Data:** [Office Supply Raw Data](https://github.com/emilygfagan/tableau/blob/main/Office_Supply_Company.csv)      
+**Raw Data:** [Office Supply Raw Data](https://github.com/emilygfagan/python/blob/main/Office_Supply_Company.ipynb)      
 **Skills Used:** creating dashboard, advanced formatting, calculated fields, percent change in year, key performance indicator analysis      
-**Technology Used:** Tableau Public     
+**Technology Used:** Tableau Public, Pandas, Python         
 
 
 ## Study/Practice Projects   
