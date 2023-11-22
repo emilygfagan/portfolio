@@ -29,7 +29,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 ### Automobile Sales Analysis
 **Presentation:** [Automobile Sales Analysis](https://github.com/emilygfagan/excel/blob/main/Automobile_Sales_Analysis.pdf)   
 **Excel File Assignment:** [Automobile Sales Excel Assignment](https://github.com/emilygfagan/excel/blob/main/Automobile_Sales_Assignment.xlsx)    
-**Data Used:** [Data](https://github.com/emilygfagan/python/blob/main/Automobile_Sales_Analysis.ipynb)       
+**Data Preview:** [Data](https://github.com/emilygfagan/python/blob/main/Automobile_Sales_Analysis.ipynb)       
 **Description:** The dataset contains car models and variants. I analyzed the data to find what specs affect gas mileage, made predictions on which car model would be the most family-friendly, found the most popular car bodytype, and visualized the manufacturers with the most car variants.     
 **Skills Used:** choosing the appropriate chart, using visualizations in Excel, cleaning data, determining what to do with missing/incorrect data, predicting  
 **Technology Used:** MS Excel, Canva  
@@ -55,7 +55,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 ### Office Supply Company KPI Dashboard     
 **Dashboard Link:** [KPI Dashboard](https://public.tableau.com/app/profile/emi.fagan/viz/KPIDashboard_17001661559060/Dashboard1)     
-**Raw Data:** [Office Supply Raw Data](https://github.com/emilygfagan/python/blob/main/Office_Supply_Company.ipynb)      
+**Data Preview:** [Data](https://github.com/emilygfagan/python/blob/main/Office_Supply_Company.ipynb)      
 **Skills Used:** creating dashboard, advanced formatting, calculated fields, percent change in year, key performance indicator analysis      
 **Technology Used:** Tableau Public, Pandas, Python         
 
