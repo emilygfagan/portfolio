@@ -64,31 +64,38 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 Below each project name is a link to my code and a brief description.      
 
 ### Employee Data    
-**Excel File:** [Practice 1](https://github.com/emilygfagan/excel/blob/main/Practice_1.xlsx)   
+**Excel File:** [Employee Practice](https://github.com/emilygfagan/excel/blob/main/Practice_1.xlsx)   
 **Data:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Practice_1_Raw_Data.xlsx)    
 **Description:** Analyzing employee data that includes satisfaction levels based on a survey. I was tasked with finding information about employees using XLOOKUP, analyzing employee satisfaction levels, filtering data on the employees that are working on too many projects at once, and finding the minimum, maximum, and average number of projects that each employee is currently working on.   
 **Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA   
 
 ### University Data
-**Excel File:** [Practice 2](https://github.com/emilygfagan/excel/blob/main/Practice_2.xlsx)      
+**Excel File:** [University Practice](https://github.com/emilygfagan/excel/blob/main/Practice_2.xlsx)      
 **Data:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Practice_2_Raw_Data.xlsx)    
 **Description:** Analyzing historical placement data from Harvard University, Boston University, and Washington University to help a student determine their best option for college based on scholarships given and tuition fees. I was tasked with determining the major that provides graduates with the widest range in salary upon graduation, using measures of central tendency to compare compensation packages given to graduates in different age groups, finding the maximum age that graduates are recruited for employment, and the month in which the highest number of graduates received job offers.   
 **Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA, measures of central tendency, outliers, box and whisker plots   
 
 ### HR Data
-**Code:** [Practice 3](https://github.com/emilygfagan/sql/blob/main/Practice_7.sql)   
+**Code:** [HR Practice](https://github.com/emilygfagan/sql/blob/main/Practice_7.sql)   
 **Description:** Database contains HR data. I was tasked with analyzing the data for the HR department. SQL file includes comments about why I wrote the commands to explain my thought process.        
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys    
 **Technology Used:** MySQL, Excel    
 
+## Movie Database
+**Code:**     
+**PDF with Pictures:** [Movie Practice](https://github.com/emilygfagan/sql/blob/main/Movie_Database.pdf)      
+**Description:** The Sakila database is a sample database provided by MySQL. It models a DVD rental store, which contains tables, such as films, actors, rentals, customers, addresses, payments, etc. The store manager, Eric, wants to organize the DVDs based on customer demand, movie types, actor names, running time of movies, etc.       
+**Skills Used:** select, filter, sort and group data     
+**Technology Used:** MySQL     
+
 ### Beginner Essentials
-**Code:** [Practice 4](https://github.com/emilygfagan/sql/blob/main/General_Challenge_1.sql)     
+**Code:** [Beginner Practice](https://github.com/emilygfagan/sql/blob/main/General_Challenge_1.sql)     
 **Description:** First challenge from Udemy's Complete SQL Bootcamp course. Learned PostgreSQL commands and basics of retrieving information.     
 **Skills Used:** select, select distinct, order by, between, limit, as, like     
 **Technology Used:** PostgreSQL     
 
 ### CASE Statement
-**Code:** [Practice 5](https://github.com/emilygfagan/sql/blob/main/CASE.sql)     
+**Code:** [CASE Practice](https://github.com/emilygfagan/sql/blob/main/CASE.sql)     
 **Description:** From section 10 of Udemy's Complete SQL Bootcamp course. Discussed the CASE statement and the difference between the general syntax and the expression syntax. Provided both examples in code.     
 **Skills Used:** case     
 **Technology Used:** PostgreSQL     
@@ -101,14 +108,14 @@ Below each project name is a link to my code and a brief description.
 **Technology Used:** PostgreSQL     
 
 ### Import and Export Data
-**Code:** [Practice 6](https://github.com/emilygfagan/sql/blob/main/Import_Export.sql)     
+**Code:** [Import/Export Practice](https://github.com/emilygfagan/sql/blob/main/Import_Export.sql)     
 **Simple CSV File Created:** [Simple Table](https://github.com/emilygfagan/sql/blob/main/simple_table.csv)     
 **Description:** Learned and practiced the basics of uploading a csv file directly to an already existing PostgreSQL table and database. Created a csv file specifically for this demonstration.      
 **Skills Used:** import data, export data     
 **Technology Used:** PostgreSQL, Google Sheets     
 
 ### NULLIF Example
-**Code:** [Practice 7](https://github.com/emilygfagan/sql/blob/main/NULLIF.sql)          
+**Code:** [NULLIF Practice](https://github.com/emilygfagan/sql/blob/main/NULLIF.sql)          
 **Description:** Practiced NULLIF functionality by creating a new database and table and deleting particular information to show what happens in a situation where the NULLIF function is needed.     
 **Skills Used:** create table, insert into, sum, case, nullif     
 **Technology Used:** PostgreSQL     
