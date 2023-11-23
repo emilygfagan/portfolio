@@ -81,7 +81,7 @@ Below each project name is a link to my code and a brief description.
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys    
 **Technology Used:** MySQL, Excel    
 
-## Movie Database
+### Movie Database
 **Code:**     
 **PDF with Pictures:** [Movie Practice](https://github.com/emilygfagan/sql/blob/main/Movie_Database.pdf)      
 **Description:** The Sakila database is a sample database provided by MySQL. It models a DVD rental store, which contains tables, such as films, actors, rentals, customers, addresses, payments, etc. The store manager, Eric, wants to organize the DVDs based on customer demand, movie types, actor names, running time of movies, etc.       
