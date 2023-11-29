@@ -61,7 +61,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 ### Super Store Sales Insights KPI Dashboard
 **Dashboard Link:** [SuperStore Sales Insights](https://public.tableau.com/app/profile/emi.fagan/viz/SuperStoreSalesInsights_17011435803440/Dashboard1?publish=yes)     
-**Data Preview:**     
+**Data Preview:** [Data](https://github.com/emilygfagan/python/blob/main/SuperStore_Sales_Insights.ipynb)          
 **Skills Used:** creating dashboard, advanced formatting, calculated fileds, key performance indicator analysis     
 **Technology Used:** Tableau Public, Figma, Pandas, Python     
 
