@@ -57,7 +57,13 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Dashboard Link:** [KPI Dashboard](https://public.tableau.com/app/profile/emi.fagan/viz/KPIDashboard_17001661559060/Dashboard1)     
 **Data Preview:** [Data](https://github.com/emilygfagan/python/blob/main/Office_Supply_Company.ipynb)      
 **Skills Used:** creating dashboard, advanced formatting, calculated fields, percent change in year, key performance indicator analysis      
-**Technology Used:** Tableau Public, Pandas, Python         
+**Technology Used:** Tableau Public, Pandas, Python       
+
+### Super Store Sales Insights KPI Dashboard
+**Dashboard Link:** [SuperStore Sales Insights](https://public.tableau.com/app/profile/emi.fagan/viz/SuperStoreSalesInsights_17011435803440/Dashboard1?publish=yes)     
+**Data Preview:**     
+**Skills Used:** creating dashboard, advanced formatting, calculated fileds, key performance indicator analysis     
+**Technology Used:** Tableau Public, Figma, Pandas, Python     
 
 
 ## Study/Practice Projects   
