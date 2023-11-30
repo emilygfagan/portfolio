@@ -18,7 +18,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Jupyter Notebook Deliverable:** (In Progress)     
 **Link to Tableau Public Dashboard:** (In Progress)     
 **Description:** Capstone project for Auburn University Bootcamp Professional Certificate. Spent 6 months learning how to analyze data effectively using Excel, SQL, Python and Tableau. The purpose of the capstone is to demonstrate my ability to use Python, Tableau, and SQL in three different business scenarios and present my findings to the capstone team for feedback and recommendations.      
-**Skills Used:** cleaning raw data, assisting a "business" using data-driven decisions, creating data visualizations in Tableau, creating a cohesive presentation          
+**Skills Used:** cleaning raw data, assisting a "business" with data-driven decisions, creating data visualizations in Tableau, creating a cohesive presentation          
 **Technology Used:** Excel, Python, Tableau, MySQL
 
 ### Bike Share Capstone    
