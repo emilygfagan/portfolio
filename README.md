@@ -9,12 +9,24 @@ This repository serves to showcase my skills and how I approach problems.
 ## Portfolio Projects
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
 
+### Auburn Bootcamp Capstone
+**Presentation:** (In Progress)     
+**Python Raw Data Preview:** (In Progress)     
+**Tableau Raw Data Preview:** (In Progress)     
+**SQL Raw Data Preview:** (In Progress)    
+**Project Documentation:** (In Progress)     
+**Jupyter Notebook Deliverable:** (In Progress)     
+**Link to Tableau Public Dashboard:** (In Progress)     
+**Description:** Capstone project for Auburn University Bootcamp Professional Certificate. Spent 6 months learning how to analyze data effectively using Excel, SQL, Python and Tableau. The purpose of the capstone is to demonstrate my ability to use Python, Tableau, and SQL in three different business scenarios and present my findings to the capstone team for feedback and recommendations.      
+**Skills Used:** cleaning raw data, assisting a "business" using data-driven decisions, creating data visualizations in Tableau, creating a cohesive presentation          
+**Technology Used:** Excel, Python, Tableau, MySQL
+
 ### Bike Share Capstone    
 **Presentation:** (In Progress)     
 **Raw Data Used:** [Link to datasets](https://divvy-tripdata.s3.amazonaws.com/index.html)          
-**Project Outline:** (In Progress)     
+**Project Documentation:** (In Progress)     
 **Description:** Capstone project for Google Data Analytics Professional Certificate. Was given a scenario about a fictional bike-share company in Chicago that is looking to grow their company. Used historical data ranging from March 2020 - November 2023 all about the bike share's customers. Followed the data analysis process steps of ask, prepare, process, analyze, share, and act. Analyzed the data using R and developed visualizations and created a presentation to organize my work.     
-**Skills Used:** cleaning data, analyzing business task, creating suggestions for businesses, creating data visualizations in R, presenting data findings      
+**Skills Used:** cleaning data, analyzing business tasks, creating suggestions for businesses, creating data visualizations in R, presenting data findings      
 **Technology Used:** MS Excel, R, Google Slides     
 
 ### Video Game Sales Analysis   
