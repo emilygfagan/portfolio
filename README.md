@@ -12,7 +12,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 ### Auburn Bootcamp Capstone
 **Presentation:** (In Progress)     
 **Python Raw Data Preview:** (In Progress)     
-**Tableau Raw Data Preview:** (In Progress)     
+**Tableau Raw Data Preview:** [Data](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Tableau.ipynb)     
 **SQL Raw Data Preview:** (In Progress)    
 **Project Documentation:** (In Progress)     
 **Jupyter Notebook Deliverable:** (In Progress)     
