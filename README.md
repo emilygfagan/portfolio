@@ -10,8 +10,8 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 ### Auburn Bootcamp Capstone
 **Presentation:** [Capstone Presentation](https://github.com/emilygfagan/tableau/blob/main/Capstone.pdf)     
 **Presentation Script:** [Presentation Script](https://github.com/emilygfagan/tableau/blob/main/Capstone%20Project%20Script.pdf)     
-**Python Data Preview:** [Data](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Python.ipynb)     
-**Tableau Data Preview:** [Data](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Tableau.ipynb)            
+**Python Data Preview:** [Analysis Using Python](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Python.ipynb)     
+**Tableau Data Preview:** [Analysis Using Tableau](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Tableau.ipynb)            
 **Link to Tableau Public Dashboard:** [Tableau Public - Customer Churn Analysis](https://public.tableau.com/app/profile/emi.fagan/viz/CustomerChurnAnalysis_17024125975370/Dashboard2)     
 **Description:** Capstone project for Auburn University Bootcamp Professional Certificate. Spent 6 months learning how to analyze data effectively using Excel, SQL, Python and Tableau. The purpose of the capstone is to demonstrate my ability to use Python and Tableau in two different business scenarios and present my findings to the capstone team for feedback and recommendations.      
 **Skills Used:** cleaning raw data, assisting a "business" with data-driven decisions, creating data visualizations in Tableau, creating a cohesive presentation          
