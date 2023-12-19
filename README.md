@@ -1,9 +1,7 @@
 # Emily Fagan - Data Analytics Portfolio
 **Technical Skills:** MS Excel, PowerPoint, Python, SQL (MySQL, PostgreSQL, BigQuery), Tableau, and R.
 
-This repository serves to showcase my skills and how I approach problems.     
-
-**This repository is in progress!** I am working hard every day to upload and organize all my projects. My deadline to finish this portfolio in total completion will be **December 15th, 2023.**      
+This repository serves to showcase my skills and how I approach problems.           
     
 
 ## Portfolio Projects
@@ -12,22 +10,13 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 ### Auburn Bootcamp Capstone
 **Presentation:** (In Progress)     
 **Python Raw Data Preview:** (In Progress)     
-**Tableau Raw Data Preview:** [Data](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Tableau.ipynb)     
-**SQL Raw Data Preview:** (In Progress)    
-**Project Documentation:** (In Progress)     
+**Tableau Raw Data Preview:** [Data](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Tableau.ipynb)         
+**Presentation Script:** ()     
 **Jupyter Notebook Deliverable:** (In Progress)     
-**Link to Tableau Public Dashboard:** (In Progress)     
+**Link to Tableau Public Dashboard:** [Tableau Public - Customer Churn Analysis](https://public.tableau.com/app/profile/emi.fagan/viz/CustomerChurnAnalysis_17024125975370/Dashboard2)     
 **Description:** Capstone project for Auburn University Bootcamp Professional Certificate. Spent 6 months learning how to analyze data effectively using Excel, SQL, Python and Tableau. The purpose of the capstone is to demonstrate my ability to use Python, Tableau, and SQL in three different business scenarios and present my findings to the capstone team for feedback and recommendations.      
 **Skills Used:** cleaning raw data, assisting a "business" with data-driven decisions, creating data visualizations in Tableau, creating a cohesive presentation          
-**Technology Used:** Excel, Python, Tableau, MySQL
-
-### Bike Share Capstone    
-**Presentation:** (In Progress)     
-**Raw Data Used:** [Link to datasets](https://divvy-tripdata.s3.amazonaws.com/index.html)          
-**Project Documentation:** (In Progress)     
-**Description:** Capstone project for Google Data Analytics Professional Certificate. Was given a scenario about a fictional bike-share company in Chicago that is looking to grow their company. Used historical data ranging from March 2020 - November 2023 all about the bike share's customers. Followed the data analysis process steps of ask, prepare, process, analyze, share, and act. Analyzed the data using R and developed visualizations and created a presentation to organize my work.     
-**Skills Used:** cleaning data, analyzing business tasks, creating suggestions for businesses, creating data visualizations in R, presenting data findings      
-**Technology Used:** MS Excel, R, Google Slides     
+**Technology Used:** Excel, Python, Tableau, MySQL   
 
 ### Video Game Sales Analysis   
 **Presentation:** [Video Game Sales Analysis](https://github.com/emilygfagan/excel/blob/main/Video%20Game%20Sales%20Analysis.pdf)    
