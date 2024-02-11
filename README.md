@@ -69,10 +69,22 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 ## Study/Practice Projects   
 Below each project name is a link to my code and a brief description.      
 
+### Grades and Marks     
+**Python Code:** [Assignment_4](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_4.py)     
+**Description:** Writing a function to return the grade category as a string when given a list of marks. Fourth assignment for my introductory Python course (CIS202) at Southern Union State Community College. Assignment from page 68 in textbook, _How to Think Like a Computer Scientist: Learning Python 3 Documentation_.       
+**Skills Used:** iterating over lists, for loops, if statements with elif, f string, conditions       
+**Technology Used:** Python       
+
+### Days of the Week     
+**Python Code:** [Assignment_3](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_3.py)       
+**Description:** Writing a function to print a day of the week when given a number from user input. Assuming the days of the week are numbered 0-6, where Sunday is 0 and Saturday is 6. Third assignment for my introductory Python course (CIS202) at Southern Union State Community College. Assignment from page 67 in textbook, _How to Think Like a Computer Scientist: Learning Python 3 Documentation_.       
+**Skills Used:** define functions, user input, type casting, if statements with elif and else       
+**Technology Used:** Python       
+
 ### Area of a Cirlce
 **Python Code:** [Assignment_2](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_2.py)       
-**Description:** Writing a simple function in Python to return the area of a circle when given a radius. Second assignment for my introductory Python course (CIS202) at Southern Union State Community College. Assignment from page 52 in textbook, _How to Think Like a Computer Scientist: Learning Python 3 Documentation_.            
-**Skills Used:** type casting data types, simple python functions with user input     
+**Description:** Writing a function in Python to return the area of a circle when given a radius. Second assignment for my introductory Python course (CIS202) at Southern Union State Community College. Assignment from page 52 in textbook, _How to Think Like a Computer Scientist: Learning Python 3 Documentation_.            
+**Skills Used:** type casting, user input, define functions with calculations          
 **Technology Used:** Python     
 
 ### Employee Data    
