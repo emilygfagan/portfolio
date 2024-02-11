@@ -15,7 +15,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Link to Tableau Public Dashboard:** [Tableau Public - Customer Churn Analysis](https://public.tableau.com/app/profile/emi.fagan/viz/CustomerChurnAnalysis_17024125975370/Dashboard2)     
 **Description:** Capstone project for Auburn University Bootcamp Professional Certificate. Spent 6 months learning how to analyze data effectively using Excel, SQL, Python and Tableau. The purpose of the capstone is to demonstrate my ability to use Python and Tableau in two different business scenarios and present my findings to the capstone team for feedback and recommendations.      
 **Skills Used:** cleaning raw data, assisting a "business" with data-driven decisions, creating data visualizations in Tableau, creating a cohesive presentation          
-**Technology Used:** Excel, Python, Tableau   
+**Technology Used:** Microsoft Excel, Python, Tableau   
 
 ### Video Game Sales Analysis   
 **Presentation:** [Video Game Sales Analysis](https://github.com/emilygfagan/excel/blob/main/Video%20Game%20Sales%20Analysis.pdf)    
@@ -24,7 +24,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Tableau Dashboard:** [Tableau Public - Video Game Sales Analysis](https://public.tableau.com/app/profile/emi.fagan/viz/VideoGameSalesAnalysis_16991416886150/Dashboard1)     
 **Description:** The dataset contains video game sales data from 2015-2020. Analyzed data to find information on market share and most popular games by geographical location. Included in this project is the raw data excel file, a presentation I made on the first 8 tasks of the analysis, and the last 5 tasks of the analysis.      
 **Skills Used:** clean data, sort data, learning data types, measures of central tendencies, box plots, skewness   
-**Technology Used:** MS Excel, Canva, Tableau, Python, Pandas   
+**Technology Used:** Microsoft Excel, Canva, Tableau, Python, Pandas   
 
 ### Automobile Sales Analysis
 **Presentation:** [Automobile Sales Analysis](https://github.com/emilygfagan/excel/blob/main/Automobile_Sales_Analysis.pdf)   
@@ -32,26 +32,26 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Data Preview:** [Data](https://github.com/emilygfagan/python/blob/main/Automobile_Sales_Analysis.ipynb)       
 **Description:** The dataset contains car models and variants. I analyzed the data to find what specs affect gas mileage, made predictions on which car model would be the most family-friendly, found the most popular car bodytype, and visualized the manufacturers with the most car variants.     
 **Skills Used:** choosing the appropriate chart, using visualizations in Excel, cleaning data, determining what to do with missing/incorrect data, predicting  
-**Technology Used:** MS Excel, Canva  
+**Technology Used:** Microsoft Excel, Canva  
 
 ### Managing Car Sales Database
 **Code:** [Managing Car Sales](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales.sql)    
 **PDF with Pictures:** [Managing Car Sales (with results)](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales%20(1).pdf)    
 **Description:** The raw data contained car company sales data. I used this data to create a database, created tables and inserted data into tables, updated tables based on calculations, and created a backup database.   
 **Skills Used:** creating and manipulating database objects, SQL constraints, understanding databases and elements in a database  
-**Technology Used:** MySQL, MS Excel   
+**Technology Used:** MySQL, Microsoft Excel   
 
 ### Employee Bonuses Database Management
 **Code:** [Managing Employee Bonuses](https://github.com/emilygfagan/sql/blob/main/Managing_Employee_Bonuses.sql)  
 **Description:** Database contains employee data. Used the data to run queries to pull reports with conditions and exported tables to Excel files.    
 **Skills Used:** filter data using queries, aggregate functions  
-**Technology Used:** MySQL, MS Excel    
+**Technology Used:** MySQL, Microsoft Excel    
 
 ### New Company Hybrid Work Model
 **Code:** [Hybrid Work Model](https://github.com/emilygfagan/sql/blob/main/Hybrid_Work_Model.sql)   
 **Description:** Database contains employee data. Used the data to pull reports and join tables together based on primary keys. SQL file includes comments about why I wrote the commands to explain my thought process.   
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys   
-**Technology Used:** MySQL, Excel  
+**Technology Used:** MySQL, Microsoft Excel  
 
 ### Office Supply Company KPI Dashboard     
 **Dashboard Link:** [KPI Dashboard](https://public.tableau.com/app/profile/emi.fagan/viz/KPIDashboard_17001661559060/Dashboard1)     
@@ -73,19 +73,21 @@ Below each project name is a link to my code and a brief description.
 **Excel File:** [Employee Practice](https://github.com/emilygfagan/excel/blob/main/Practice_1.xlsx)   
 **Data:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Practice_1_Raw_Data.xlsx)    
 **Description:** Analyzing employee data that includes satisfaction levels based on a survey. I was tasked with finding information about employees using XLOOKUP, analyzing employee satisfaction levels, filtering data on the employees that are working on too many projects at once, and finding the minimum, maximum, and average number of projects that each employee is currently working on.   
-**Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA   
+**Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA     
+**Technology Used:** Microsoft Excel      
 
 ### University Data
 **Excel File:** [University Practice](https://github.com/emilygfagan/excel/blob/main/Practice_2.xlsx)      
 **Data:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Practice_2_Raw_Data.xlsx)    
 **Description:** Analyzing historical placement data from Harvard University, Boston University, and Washington University to help a student determine their best option for college based on scholarships given and tuition fees. I was tasked with determining the major that provides graduates with the widest range in salary upon graduation, using measures of central tendency to compare compensation packages given to graduates in different age groups, finding the maximum age that graduates are recruited for employment, and the month in which the highest number of graduates received job offers.   
-**Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA, measures of central tendency, outliers, box and whisker plots   
+**Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA, measures of central tendency, outliers, box and whisker plots     
+**Technology Used:** Microsoft Excel     
 
 ### HR Data
 **Code:** [HR Practice](https://github.com/emilygfagan/sql/blob/main/Practice_7.sql)   
 **Description:** Database contains HR data. I was tasked with analyzing the data for the HR department. SQL file includes comments about why I wrote the commands to explain my thought process.        
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys    
-**Technology Used:** MySQL, Excel    
+**Technology Used:** MySQL, Microsoft Excel    
 
 ### Movie Database
 **Code:** [Movie Practice](https://github.com/emilygfagan/sql/blob/main/Movie_Practice.sql)     
