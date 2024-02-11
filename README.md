@@ -69,6 +69,12 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 ## Study/Practice Projects   
 Below each project name is a link to my code and a brief description.      
 
+### Area of a Cirlce
+**Python Code:** [Assignment_2](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_2.py)       
+**Description:** Writing a simple function in Python to return the area of a circle when given a radius. Second assignment for my introductory Python course (CIS202) at Southern Union State Community College.            
+**Skills Used:** type casting data types, simple python functions with user input     
+**Technology Used:** Python     
+
 ### Employee Data    
 **Excel File:** [Employee Practice](https://github.com/emilygfagan/excel/blob/main/Practice_1.xlsx)   
 **Data:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Practice_1_Raw_Data.xlsx)    
