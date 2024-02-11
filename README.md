@@ -8,7 +8,7 @@ This repository serves to showcase my skills and how I approach problems.
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
 
 ### Auburn Bootcamp Capstone
-**Presentation:** [Capstone Presentation](https://github.com/emilygfagan/tableau/blob/main/Capstone.pdf)     
+**Presentation:** [`Capstone Presentation`](https://github.com/emilygfagan/tableau/blob/main/Capstone.pdf)     
 **Presentation Script:** [Presentation Script](https://github.com/emilygfagan/tableau/blob/main/Capstone%20Project%20Script.pdf)     
 **Python Data Preview:** [Analysis Using Python](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Python.ipynb)     
 **Tableau Data Preview:** [Analysis Using Tableau](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Tableau.ipynb)            
