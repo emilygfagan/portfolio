@@ -102,7 +102,7 @@ Below each project name is a link to my code and a brief description.
 **Technology Used:** Microsoft Excel     
 
 ### HR Data
-**SQL Code:** [HR Practice](https://github.com/emilygfagan/sql/blob/main/Practice_7.sql)   
+**SQL Code:** [HR Practice](https://github.com/emilygfagan/sql/blob/main/Practice_3.sql)   
 **Description:** Database contains HR data. I was tasked with analyzing the data for the HR department. SQL file includes comments about why I wrote the commands to explain my thought process.        
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys    
 **Technology Used:** MySQL, Microsoft Excel    
