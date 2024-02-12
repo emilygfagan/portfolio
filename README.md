@@ -135,7 +135,7 @@ Below each project name is a link to my code and a brief description.
 
 ### Employee Data    
 **Excel File:** [`Employee Practice`](https://github.com/emilygfagan/excel/blob/main/Practice_1.xlsx)   
-**Data Preview:** [`Raw Data`](https://github.com/emilygfagan/excel/blob/main/Practice_1_Raw_Data.xlsx)    
+**Data Preview:** [`Data`](https://github.com/emilygfagan/python/blob/main/employee_data_preview.ipynb)    
 **Description:** Analyzing employee data that includes satisfaction levels based on a survey. I was tasked with finding information about employees using XLOOKUP, analyzing employee satisfaction levels, filtering data on the employees that are working on too many projects at once, and finding the minimum, maximum, and average number of projects that each employee is currently working on.   
 **Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA     
 **Technology Used:** Microsoft Excel, Python       
@@ -143,7 +143,7 @@ Below each project name is a link to my code and a brief description.
 ### University Data
 **Excel File:** [`University Practice`](https://github.com/emilygfagan/excel/blob/main/Practice_2.xlsx)      
 **Data Preview:** [`Data`](https://github.com/emilygfagan/python/blob/main/university_data_preview.ipynb)    
-**Description:** Analyzing historical placement data from Harvard University, Boston University, and Washington University to help a student determine their best option for college based on scholarships given and tuition fees. I was tasked with determining the major that provides graduates with the widest range in salary upon graduation, using measures of central tendency to compare compensation packages given to graduates in different age groups, finding the maximum age that graduates are recruited for employment, and the month in which the highest number of graduates received job offers.   
+**Description:** Analyzing historical university placement data from to help a student determine their best option for college based on scholarships given and tuition fees. I was tasked with determining the major that provides graduates with the widest range in salary upon graduation, using measures of central tendency to compare compensation packages given to graduates in different age groups, finding the maximum age that graduates are recruited for employment, and the month in which the highest number of graduates received job offers.   
 **Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA, measures of central tendency, outliers, box and whisker plots     
 **Technology Used:** Microsoft Excel, Python     
 
