@@ -29,27 +29,6 @@ This repository serves to showcase my skills and how I approach problems.
   - [NULLIF Example](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#nullif-example)
 - [Contacts](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#contacts)
 
-## Content by Skill
-- Python
-  - Preprocessing Data in Python
-    - [Capstone Project](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Python.ipynb)
-    - [Video Game Sales](https://github.com/emilygfagan/python/blob/main/Video_Game_Sales.ipynb)
-    - [Automobile Sales Analysis](https://github.com/emilygfagan/python/blob/main/Automobile_Sales_Analysis.ipynb)
-    - [Office Supply Company](https://github.com/emilygfagan/python/blob/main/Office_Supply_Company.ipynb)
-    - [Super Store Sales Insights](https://github.com/emilygfagan/python/blob/main/SuperStore_Sales_Insights.ipynb)
-    - [University Data](https://github.com/emilygfagan/python/blob/main/university_data_preview.ipynb)
-  - Python Code Assignments
-    - [Grades and Marks](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_4.py)
-    - [Days of the Week](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_3.py)
-    - [Area of a Circle](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_2.py)
-- Tableau
-- SQL
-    - [Managing Car Sales Database](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales.sql)
-    - [Employee Bonuses Database Management](https://github.com/emilygfagan/sql/blob/main/Managing_Employee_Bonuses.sql)
-    - [New Company Hybrid Work Model](https://github.com/emilygfagan/sql/blob/main/Hybrid_Work_Model.sql)
-- Microsoft Excel
-- Presentations
-
 ## Portfolio Projects
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
 
