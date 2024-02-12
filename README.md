@@ -3,8 +3,8 @@
 
 This repository serves to showcase my skills and how I approach problems.           
 
-## Table of Contents
-- [Skills Table of Contents]
+## Contents
+- [Content by Skill](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#skills-table-of-contents)
 - [Portfolio Projects](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#portfolio-projects)
   - [Auburn Bootcamp Capstone Project](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#auburn-bootcamp-capstone)
   - [Video Game Sales Analysis](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#video-game-sales-analysis)
@@ -29,7 +29,7 @@ This repository serves to showcase my skills and how I approach problems.
   - [NULLIF Example](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#nullif-example)
 - [Contacts](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#contacts)
 
-## Skills Table of Contents
+## Content by Skill
 - Python
   - Preprocessing Data in Python
     - [Capstone Project](https://github.com/emilygfagan/python/blob/main/Analysis_Using_Python.ipynb)
