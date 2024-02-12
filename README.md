@@ -70,83 +70,83 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 Below each project name is a link to my code and a brief description.      
 
 ### Grades and Marks     
-**Python Code:** [Assignment_4](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_4.py)     
+**Python Code:** [`Assignment_4`](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_4.py)     
 **Description:** Writing a function to return the grade category as a string when given a list of marks. Fourth assignment for my introductory Python course (CIS202) at Southern Union State Community College. Assignment from page 68 in textbook, _How to Think Like a Computer Scientist: Learning Python 3 Documentation_.       
 **Skills Used:** iterating over lists, for loops, if statements with elif, f string, conditions       
 **Technology Used:** Python       
 
 ### Days of the Week     
-**Python Code:** [Assignment_3](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_3.py)       
+**Python Code:** [`Assignment_3`](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_3.py)       
 **Description:** Writing a function to print a day of the week when given a number from user input. Assuming the days of the week are numbered 0-6, where Sunday is 0 and Saturday is 6. Third assignment for my introductory Python course (CIS202) at Southern Union State Community College. Assignment from page 67 in textbook, _How to Think Like a Computer Scientist: Learning Python 3 Documentation_.       
 **Skills Used:** define functions, user input, type casting, if statements with elif and else       
 **Technology Used:** Python       
 
 ### Area of a Cirlce
-**Python Code:** [Assignment_2](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_2.py)       
+**Python Code:** [`Assignment_2`](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_2.py)       
 **Description:** Writing a function in Python to return the area of a circle when given a radius. Second assignment for my introductory Python course (CIS202) at Southern Union State Community College. Assignment from page 52 in textbook, _How to Think Like a Computer Scientist: Learning Python 3 Documentation_.            
 **Skills Used:** type casting, user input, define functions with calculations          
 **Technology Used:** Python     
 
 ### Employee Data    
-**Excel File:** [Employee Practice](https://github.com/emilygfagan/excel/blob/main/Practice_1.xlsx)   
-**Data:** [Raw Data](https://github.com/emilygfagan/excel/blob/main/Practice_1_Raw_Data.xlsx)    
+**Excel File:** [`Employee Practice`](https://github.com/emilygfagan/excel/blob/main/Practice_1.xlsx)   
+**Data:** [`Raw Data`](https://github.com/emilygfagan/excel/blob/main/Practice_1_Raw_Data.xlsx)    
 **Description:** Analyzing employee data that includes satisfaction levels based on a survey. I was tasked with finding information about employees using XLOOKUP, analyzing employee satisfaction levels, filtering data on the employees that are working on too many projects at once, and finding the minimum, maximum, and average number of projects that each employee is currently working on.   
 **Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA     
 **Technology Used:** Microsoft Excel      
 
 ### University Data
-**Excel File:** [University Practice](https://github.com/emilygfagan/excel/blob/main/Practice_2.xlsx)      
+**Excel File:** [`University Practice`](https://github.com/emilygfagan/excel/blob/main/Practice_2.xlsx)      
 **Data Preview:** [`Data`](https://github.com/emilygfagan/python/blob/main/university_data_preview.ipynb)    
 **Description:** Analyzing historical placement data from Harvard University, Boston University, and Washington University to help a student determine their best option for college based on scholarships given and tuition fees. I was tasked with determining the major that provides graduates with the widest range in salary upon graduation, using measures of central tendency to compare compensation packages given to graduates in different age groups, finding the maximum age that graduates are recruited for employment, and the month in which the highest number of graduates received job offers.   
 **Skills Used:** XLOOKUP, filtering, sorting, pivot tables, COUNTA, measures of central tendency, outliers, box and whisker plots     
 **Technology Used:** Microsoft Excel     
 
 ### HR Data
-**SQL Code:** [HR Practice](https://github.com/emilygfagan/sql/blob/main/Practice_3.sql)   
+**SQL Code:** [`HR Practice`](https://github.com/emilygfagan/sql/blob/main/Practice_3.sql)   
 **Description:** Database contains HR data. I was tasked with analyzing the data for the HR department. SQL file includes comments about why I wrote the commands to explain my thought process.        
 **Skills Used:** retrieve data using joins, filter data, and export results for reporting, primary and foreign keys    
 **Technology Used:** MySQL, Microsoft Excel    
 
 ### Movie Database
-**SQL Code:** [Movie Practice](https://github.com/emilygfagan/sql/blob/main/Movie_Practice.sql)     
-**PDF with Pictures:** [Movie Practice (with results)](https://github.com/emilygfagan/sql/blob/main/Movie_Database.pdf)      
+**SQL Code:** [`Movie Practice`](https://github.com/emilygfagan/sql/blob/main/Movie_Practice.sql)     
+**PDF with Pictures:** [`Movie Practice (with results)`](https://github.com/emilygfagan/sql/blob/main/Movie_Database.pdf)      
 **Description:** The Sakila database is a sample database provided by MySQL. It models a DVD rental store, which contains tables, such as films, actors, rentals, customers, addresses, payments, etc. The store manager, Eric, wants to organize the DVDs based on customer demand, movie types, actor names, running time of movies, etc.       
 **Skills Used:** select, filter, sort and group data     
 **Technology Used:** MySQL     
 
 ### Beginner Essentials
-**SQL Code:** [Beginner Practice](https://github.com/emilygfagan/sql/blob/main/General_Challenge_1.sql)     
+**SQL Code:** [`Beginner Practice`](https://github.com/emilygfagan/sql/blob/main/General_Challenge_1.sql)     
 **Description:** First challenge from Udemy's Complete SQL Bootcamp course. Learned PostgreSQL commands and basics of retrieving information.     
 **Skills Used:** select, select distinct, order by, between, limit, as, like     
 **Technology Used:** PostgreSQL     
 
 ### CASE Statement
-**SQL Code:** [CASE Practice](https://github.com/emilygfagan/sql/blob/main/CASE.sql)     
+**SQL Code:** [`CASE Practice`](https://github.com/emilygfagan/sql/blob/main/CASE.sql)     
 **Description:** From section 10 of Udemy's Complete SQL Bootcamp course. Discussed the CASE statement and the difference between the general syntax and the expression syntax. Provided both examples in code.     
 **Skills Used:** case     
 **Technology Used:** PostgreSQL     
 
 ### Beginner Database
-**SQL Code:** [Example 1](https://github.com/emilygfagan/sql/blob/main/Challenge_3.sql)     
-**SQL Code:** [Example 2](https://github.com/emilygfagan/sql/blob/main/Section_8.sql)     
+**SQL Code:** [`Example 1`](https://github.com/emilygfagan/sql/blob/main/Challenge_3.sql)     
+**SQL Code:** [`Example 2`](https://github.com/emilygfagan/sql/blob/main/Section_8.sql)     
 **Description:** Third general challenge from Udemy's Complete SQL Bootcamp course. Was tasked with creating a simple database from scratch. Learned the basics of adding columns to tables and the importance of data types. Included two files to demonstrate knowledge of creating a database from scratch.          
 **Skills Used:** primary keys, foreign keys, create table, insert, update, alter, delete, drop, check constraint     
 **Technology Used:** PostgreSQL     
 
 ### Import and Export Data
-**SQL Code:** [Import/Export Practice](https://github.com/emilygfagan/sql/blob/main/Import_Export.sql)     
-**Simple CSV File Created:** [Simple Table](https://github.com/emilygfagan/sql/blob/main/simple_table.csv)     
+**SQL Code:** [`Import/Export Practice`](https://github.com/emilygfagan/sql/blob/main/Import_Export.sql)     
+**Simple CSV File Created:** [`Simple Table`](https://github.com/emilygfagan/sql/blob/main/simple_table.csv)     
 **Description:** Learned and practiced the basics of uploading a csv file directly to an already existing PostgreSQL table and database. Created a csv file specifically for this demonstration.      
 **Skills Used:** import data, export data     
 **Technology Used:** PostgreSQL, Google Sheets     
 
 ### NULLIF Example
-**SQL Code:** [NULLIF Practice](https://github.com/emilygfagan/sql/blob/main/NULLIF.sql)          
+**SQL Code:** [`NULLIF Practice`](https://github.com/emilygfagan/sql/blob/main/NULLIF.sql)          
 **Description:** Practiced NULLIF functionality by creating a new database and table and deleting particular information to show what happens in a situation where the NULLIF function is needed.     
 **Skills Used:** create table, insert into, sum, case, nullif     
 **Technology Used:** PostgreSQL     
 
 
 ## Contacts
-- LinkedIn: [emilygfagan](https://www.linkedin.com/in/emilygfagan/)
+- LinkedIn: [`emilygfagan`](https://www.linkedin.com/in/emilygfagan/)
 - E-mail: emilygfagan@gmail.com
