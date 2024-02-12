@@ -2,7 +2,31 @@
 **Technical Skills:** Microsoft Excel, PowerPoint, Python, SQL (MySQL, PostgreSQL, BigQuery), Tableau, and R.
 
 This repository serves to showcase my skills and how I approach problems.           
-    
+
+## Table of Contents
+- [Portfolio Projects](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#portfolio-projects)
+  - [Auburn Bootcamp Capstone Project](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#auburn-bootcamp-capstone)
+  - [Video Game Sales Analysis](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#video-game-sales-analysis)
+  - [Automobile Sales Analysis](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#automobile-sales-analysis)
+  - [Managing Car Sales Database](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#managing-car-sales-database)
+  - [Employee Bonuses Database Management](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#employee-bonuses-database-management)
+  - [New Company Hybrid Work Model](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#new-company-hybrid-work-model)
+  - [Office Supply Company KPI Dashboard](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#office-supply-company-kpi-dashboard)
+  - [Superstore Sales Insights KPI Dashboard](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#super-store-sales-insights-kpi-dashboard)
+- [Study/Practice Projects](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#studypractice-projects)
+  - [Grades and Marks](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#grades-and-marks)
+  - [Days of the Week](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#days-of-the-week)
+  - [Area of a Circle](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#area-of-a-cirlce)
+  - [Employee Data](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#employee-data)
+  - [University Data](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#university-data)
+  - [HR Data](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#hr-data)
+  - [Movie Database](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#movie-database)
+  - [Beginner Essentials](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#beginner-essentials)
+  - [CASE Statement](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#case-statement)
+  - [Beginner Database](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#beginner-database)
+  - [Import and Export Data](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#beginner-database)
+  - [NULLIF Example](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#nullif-example)
+- [Contacts](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#contacts)
 
 ## Portfolio Projects
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
