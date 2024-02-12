@@ -44,6 +44,9 @@ This repository serves to showcase my skills and how I approach problems.
     - [Area of a Circle](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_2.py)
 - Tableau
 - SQL
+    - [Managing Car Sales Database](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales.sql)
+    - [Employee Bonuses Database Management](https://github.com/emilygfagan/sql/blob/main/Managing_Employee_Bonuses.sql)
+    - [New Company Hybrid Work Model](https://github.com/emilygfagan/sql/blob/main/Hybrid_Work_Model.sql)
 - Microsoft Excel
 - Presentations
 
