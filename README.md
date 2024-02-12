@@ -56,7 +56,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Data Preview:** [`Data`](https://github.com/emilygfagan/python/blob/main/Automobile_Sales_Analysis.ipynb)       
 **Description:** The dataset contains car models and variants. I analyzed the data to find what specs affect gas mileage, made predictions on which car model would be the most family-friendly, found the most popular car bodytype, and visualized the manufacturers with the most car variants.     
 **Skills Used:** choosing the appropriate chart, using visualizations in Excel, cleaning data, determining what to do with missing/incorrect data, predicting  
-**Technology Used:** Microsoft Excel, Canva  
+**Technology Used:** Microsoft Excel, Canva, Python  
 
 ### Managing Car Sales Database
 **SQL Code:** [`Managing Car Sales`](https://github.com/emilygfagan/sql/blob/main/Managing_Car_Sales.sql)    
