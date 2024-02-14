@@ -93,6 +93,12 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 ## Study/Practice Projects   
 Below each project name is a link to my code and a brief description.      
 
+### Days of the Week 2
+**Python Code:** [`Assignment_5`](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_5.ipynb)       
+**Description:** Writing a function to convert integers 0-6 into days of the week using indexing with lists. Using the previous function, I wrote another function that calculates _n_ days after a given day of the week and returns the day name. Fifth assignment for my introductory Python course (CIS202) at Southern Union State Community College. Assignment from page 81 in textbook, _How to Think Like a Computer Scientist: Learning Python 3 Documentation_.      
+**Skills Used:** lists, define functions, debugging, delta       
+**Technology Used:** Python       
+
 ### Grades and Marks     
 **Python Code:** [`Assignment_4`](https://github.com/emilygfagan/python/blob/main/Fagan_Assignment_4.py)     
 **Description:** Writing a function to return the grade category as a string when given a list of marks. Fourth assignment for my introductory Python course (CIS202) at Southern Union State Community College. Assignment from page 68 in textbook, _How to Think Like a Computer Scientist: Learning Python 3 Documentation_.       
