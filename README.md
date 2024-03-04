@@ -1,5 +1,5 @@
 # Emily Fagan - Data Analytics Portfolio
-**Technical Skills:** Microsoft Excel, PowerPoint, Python, SQL (MySQL, PostgreSQL, BigQuery), and Tableau.
+**Technical Skills:** Python, SQL, Tableau, and Microsoft Office Suite.
 
 This repository serves to showcase my skills and how I approach problems.           
 
