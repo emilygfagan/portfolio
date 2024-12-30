@@ -31,12 +31,12 @@ This repository serves to showcase my skills and how I approach problems.
 ## Portfolio Projects
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
 
-### Python Programming Calculator
-**Python Code:** 
-**kivy Code:** 
-**Screenshot of project:** 
-**Description:** Final project for CIS202 Python Programming I at Southern Union State Community College. Tasked with creating a simple calculator app using kivy functionality and python code. 
-**Skills Used:** 
+### Python Programming Calculator      
+**Python Code:**      
+**kivy Code:**      
+**Screenshot of project:**     
+**Description:** Final project for CIS202 Python Programming I at Southern Union State Community College. Tasked with creating a simple calculator app using kivy functionality and python code.       
+**Skills Used:**        
 
 ### Auburn Bootcamp Capstone
 **Presentation:** [`Capstone Presentation`](https://github.com/emilygfagan/tableau/blob/main/Capstone.pdf)     
