@@ -32,9 +32,10 @@ This repository serves to showcase my skills and how I approach problems.
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.
 
 ### Python Programming Calculator      
-**Python Code:**      
-**kivy Code:**      
-**Screenshot of project:**     
+**Python Code:** [`calc2.py`](https://github.com/emilygfagan/python/blob/main/calc2.py)      
+**kivy Code:** [`calc2.kv`](https://github.com/emilygfagan/python/blob/main/calc2.kv)      
+**Screenshot of project:** [`Calculator Screenshot`](https://github.com/emilygfagan/python/blob/main/CalculatorFinal.png)     
+**zip file download:** [`Fagan_Calculator_2`](https://github.com/emilygfagan/python/blob/main/Fagan_Calculator_2.zip)      
 **Description:** Final project for CIS202 Python Programming I at Southern Union State Community College. Tasked with creating a simple calculator app using kivy functionality and python code.       
 **Skills Used:**        
 
