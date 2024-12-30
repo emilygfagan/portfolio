@@ -5,7 +5,7 @@ This repository serves to showcase my skills and how I approach problems.
 
 ## Contents
 - [Portfolio Projects](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#portfolio-projects)
-  - [Python Calculator Project](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#python-programming-calculator)     
+  - [Python Calculator Project](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#python-calculator)     
   - [Auburn Bootcamp Capstone Project](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#auburn-bootcamp-capstone)
   - [Video Game Sales Analysis](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#video-game-sales-analysis)
   - [Automobile Sales Analysis](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#automobile-sales-analysis)
