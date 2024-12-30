@@ -40,7 +40,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Description:** This project is a four-function calculator built with Python for functionality and Kivy for an intuitive and visually appealing design. Features include addition, subtraction, multiplication, division, percentage calculations, support for decimals, a clear button, and a backspace button.
 To go beyond the project requirements, I utilized Kivy to add custom colors and design elements to enhance the user interface. During development, I learned how to create and manage a virtual environment, set up and use Visual Studio Code effectively, and leverage Neovim's powerful shortcuts for editing large amounts of code efficiently.
 This project earned an A grade, reflecting my commitment to learning new tools and exceeding expectations in practical applications.       
-**Skills Used:** kivy, Python, Visual Studio Code        
+**Skills Used:** kivy, Python, Visual Studio Code, Neovim          
 
 ### Auburn Bootcamp Capstone
 **Presentation:** [`Capstone Presentation`](https://github.com/emilygfagan/tableau/blob/main/Capstone.pdf)     
