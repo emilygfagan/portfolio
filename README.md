@@ -1,11 +1,9 @@
 # Emily Fagan – IT & Systems Portfolio
 
 **Technical Skills:**  
-Active Directory, Windows & Linux administration, Python, SQL (PostgreSQL & MySQL), Command Line (PowerShell & Bash), IT hardware setup and troubleshooting, C++, Microsoft Office Suite, Tableau.
+Active Directory, Windows & Linux administration, Python, SQL (PostgreSQL & MySQL), Command Line (PowerShell & Bash), IT hardware setup and troubleshooting, C++, Microsoft Office Suite, Tableau. 
 
----     
-
-Welcome! 👋  
+Welcome! 
 This portfolio showcases my journey into IT, systems administration, and technical support. I’m currently pursuing a Master’s in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham.      
 
 Here, you'll find projects that reflect my hands-on experience and growth in areas such as:
@@ -15,9 +13,7 @@ Here, you'll find projects that reflect my hands-on experience and growth in are
 - Linux terminal operations and scripting  
 - SQL-based database design and querying  
 - Python scripting and GUI development  
-- IT hardware configuration and troubleshooting
-
----          
+- IT hardware configuration and troubleshooting        
 
 ## Contents
 - [Portfolio Projects](https://github.com/emilygfagan/portfolio?tab=readme-ov-file#portfolio-projects)
