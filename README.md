@@ -12,7 +12,7 @@ Here, you'll find projects that reflect my hands-on experience and growth in are
 - Windows Server administration and Group Policy configuration  
 - Linux terminal operations and scripting  
 - SQL-based database design and querying  
-- Python scripting using **Pandas**, **NumPy**, GUI frameworks, and API integration 
+- Python scripting using Pandas, NumPy, GUI frameworks, and API integration 
 - IT hardware configuration and troubleshooting        
 
 ## Contents
