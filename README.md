@@ -55,9 +55,11 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 ### Active Directory Lab - Fagan Systems
 
-**Link to project repository:** [`Fagan Systems`](https://github.com/emilygfagan/active-directory?tab=readme-ov-file#active-directory-lab-project--fagan-systems)     
-**Description:** This project simulates the design, deployment, and management of a professional Windows Server Active Directory environment for a fictional IT consulting company called **Fagan Systems**. It showcases best practices in infrastructure setup, user and group management, access control, and centralized policy enforcement using Group Policy Objects (GPOs). The lab includes a domain controller, Windows 10 clients, a dedicated print server, shared departmental folders with restricted access, mapped network drives, and GPO configurations for desktop environment settings. It reflects the type of structured, scalable IT environment used in real organizations.     
-**Skills Used:**
+**Project Link:** [`Fagan Systems`](https://github.com/emilygfagan/active-directory?tab=readme-ov-file#active-directory-lab-project--fagan-systems)      
+
+**Description:** This project simulates the design, deployment, and management of a professional Windows Server Active Directory environment for a fictional IT consulting company called **Fagan Systems**. It showcases best practices in infrastructure setup, user and group management, access control, and centralized policy enforcement using Group Policy Objects (GPOs). The lab includes a domain controller, Windows 10 clients, a dedicated print server, shared departmental folders with restricted access, mapped network drives, and GPO configurations for desktop environment settings. It reflects the type of structured, scalable IT environment used in real organizations.        
+
+**Skills Used:**     
 - Active Directory Domain Services (AD DS)
 - Domain controller and client setup
 - OU (Organizational Unit) hierarchy design
