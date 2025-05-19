@@ -20,7 +20,7 @@ Here, you'll find projects that reflect my hands-on experience and growth in are
 
 ## Contents
 - [Portfolio Projects](#portfolio-projects)
-  - [Active Directory Lab - Fagan Systems](#active-directory-lab--fagan-systems)
+  - [Active Directory Lab - Fagan Systems](#active-directory-lab---fagan-systems)
   - [Python Calculator Project](#python-calculator)     
   - [Auburn Bootcamp Capstone Project](#auburn-bootcamp-capstone)
   - [Video Game Sales Analysis](#video-game-sales-analysis)
