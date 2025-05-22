@@ -59,8 +59,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 **Description:** This PowerShell script automates the process of adding new users to an Active Directory domain. It prompts for user information, generates a unique username, creates the user in the correct organizational unit, assigns group memberships based on department, and includes validation and loop logic to handle multiple entries. It was built as an extension to my Active Directory lab environment.
 
-**Skills Used:**  
-PowerShell scripting, Active Directory user and group management, logic control (loops, conditionals), secure password handling, organizational unit structure, automation in IT environments
+**Skills Used:** PowerShell scripting, Active Directory user and group management, logic control (loops, conditionals), secure password handling, organizational unit structure, automation in IT environments
 
 
 
