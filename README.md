@@ -10,7 +10,7 @@ This portfolio showcases my journey into IT, systems administration, and technic
 Here, you'll find projects that reflect my hands-on experience and growth in areas such as:       
 - Active Directory domain setup and user/group management  
 - Windows Server administration and Group Policy configuration  
-- Linux terminal operations and scripting  
+- PowerShell operations and scripting  
 - SQL-based database design and querying  
 - Python scripting using Pandas, NumPy, GUI frameworks, and API integration 
 - IT hardware configuration and troubleshooting        
