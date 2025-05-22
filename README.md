@@ -55,7 +55,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 ### PowerShell AD Automation Script
 
-**Project Link:** [`PowerShell Automation`](https://github.com/emilygfagan/active-directory/tree/main/powershell-scripts#powershell-automation-for-active-directory-user-management)     
+**Project Link:** [`PowerShell Automation`](https://github.com/emilygfagan/active-directory/blob/main/powershell-scripts/README.md)     
 
 **Description:** This PowerShell script automates the process of adding new users to an Active Directory domain. It prompts for user information, generates a unique username, creates the user in the correct organizational unit, assigns group memberships based on department, and includes validation and loop logic to handle multiple entries. It was built as an extension to my Active Directory lab environment.
 
