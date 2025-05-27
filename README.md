@@ -62,7 +62,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 **Highlighted Scripts:**        
 - **New User Creation Script:** Automates adding users to the domain with unique usernames and correct group/OU placement.
 - **Rename User Script:** Updates existing user accounts with a new name, handling CN changes, and attribute updates.
-- **Termination Script:**     
+- **Termination Script:** Automates the offboarding process by disabling an AD account, removing group memberships, moving the user to a dedicated DisabledAccounts OU, resetting their password, archiving their home directory, and logging all actions to a CSV file. Designed to reflect real-world IT offboarding workflows and security best practices.           
 
 **Skills Used:** PowerShell scripting, Active Directory automation, user lifecycle management, scripting logic (loops, error handling), secure credential management, domain organization structure, real-world IT administration practices     
 
