@@ -19,7 +19,7 @@ Here, you'll find projects that reflect my hands-on experience and growth in are
 
 ## Contents
 - [Portfolio Projects](#portfolio-projects)
-  - [PowerShell AD Automation Script](#powershell-ad-automation-script)
+  - [PowerShell AD Automation Toolkit](#powershell-ad-automation-toolkit)
   - [Active Directory Lab - Fagan Systems](#active-directory-lab---fagan-systems)
   - [Python Calculator Project](#python-calculator)     
   - [Auburn Bootcamp Capstone Project](#auburn-bootcamp-capstone)
@@ -53,13 +53,18 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 
 
-### PowerShell AD Automation Script
+### PowerShell AD Automation Toolkit
 
-**Project Link:** [`PowerShell Automation`](https://github.com/emilygfagan/active-directory/blob/main/powershell-scripts/README.md)     
+**Project Link:** [`PowerShell Scripts Repository`](https://github.com/emilygfagan/active-directory/blob/main/powershell-scripts/README.md)       
 
-**Description:** This PowerShell script automates the process of adding new users to an Active Directory domain. It prompts for user information, generates a unique username, creates the user in the correct organizational unit, assigns group memberships based on department, and includes validation and loop logic to handle multiple entries. It was built as an extension to my Active Directory lab environment.
+**Description:** A collection of PowerShell scripts developed to automate key tasks in a Windows Server Active Directory environment. These scripts were designed and tested within my Active Directory lab and cover a range of real-world IT operations such as creating users, renaming users, assigning group memberships, and enforcing consistent naming conventions. Each script includes built-in validation, logic flow control, and integration with existing organizational structures.       
 
-**Skills Used:** PowerShell scripting, Active Directory user and group management, logic control (loops, conditionals), secure password handling, organizational unit structure, automation in IT environments
+**Highlighted Scripts:**        
+- **New User Creation Script:** Automates adding users to the domain with unique usernames and correct group/OU placement.
+- **Rename User Script:** Updates existing user accounts with a new name, handling CN changes, and attribute updates.
+- **Termination Script:**     
+
+**Skills Used:** PowerShell scripting, Active Directory automation, user lifecycle management, scripting logic (loops, error handling), secure credential management, domain organization structure, real-world IT administration practices     
 
 
 
