@@ -56,7 +56,7 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 ### Cybersecurity Projects
 
-**Repository Link:** [`cybersecurity-projects`](https://github.com/emilygfagan/cybersecurity-projects/README.md)       
+**Repository Link:** [`cybersecurity-projects`](https://github.com/emilygfagan/cybersecurity-projects/blob/main/README.md)       
 
 **Description:** (IN PROGRESS) Hands-on cybersecurity projects including honeypots, honeyfiles, and detection tools.       
 
