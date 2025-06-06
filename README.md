@@ -19,6 +19,7 @@ Here, you'll find projects that reflect my hands-on experience and growth in are
 
 ## Contents
 - [Portfolio Projects](#portfolio-projects)
+  - [Cybersecurity Projects](#cybersecurity-projects)
   - [PowerShell AD Automation Toolkit](#powershell-ad-automation-toolkit)
   - [Active Directory Lab - Fagan Systems](#active-directory-lab---fagan-systems)
   - [Python Calculator Project](#python-calculator)     
@@ -53,9 +54,17 @@ Linked below are my favorite projects. I include a brief explanation, skills use
 
 
 
+### Cybersecurity Projects (In Progress)
+
+Hands-on cybersecurity projects including honeypots, honeyfiles, and detection tools.      
+
+**Repository Link:** [cybersecurity-projects](https://github.com/emilygfagan/cybersecurity-projects/README.md)     
+
+
+
 ### PowerShell AD Automation Toolkit
 
-**Project Link:** [`PowerShell Scripts Repository`](https://github.com/emilygfagan/active-directory/blob/main/powershell-scripts/README.md)       
+**Repository Link:** [`PowerShell Scripts Repository`](https://github.com/emilygfagan/active-directory/blob/main/powershell-scripts/README.md)       
 
 **Description:** A collection of PowerShell scripts developed to automate key tasks in a Windows Server Active Directory environment. These scripts were designed and tested within my Active Directory lab and cover a range of real-world IT operations such as creating users, renaming users, assigning group memberships, and enforcing consistent naming conventions. Each script includes built-in validation, logic flow control, and integration with existing organizational structures.       
 
