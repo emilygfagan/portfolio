@@ -23,7 +23,7 @@ Here, you'll find projects that reflect my hands-on experience and growth in are
   - [PowerShell AD Automation Toolkit](#powershell-ad-automation-toolkit)
   - [Active Directory Lab - Fagan Systems](#active-directory-lab---fagan-systems)
   - [Python Calculator Project](#python-calculator)     
-  - [Auburn Bootcamp Capstone Project](#auburn-bootcamp-capstone)
+  - [Auburn Data Analytics Capstone Project](#auburn-data-analytics-capstone)
   - [Video Game Sales Analysis](#video-game-sales-analysis)
   - [Automobile Sales Analysis](#automobile-sales-analysis)
   - [Managing Car Sales Database](#managing-car-sales-database)
@@ -112,7 +112,7 @@ This project earned an A grade, reflecting my commitment to learning new tools a
 
 
 
-### Auburn Bootcamp Capstone
+### Auburn Data Analytics Capstone
 
 **Presentation:** [`Capstone Presentation`](https://github.com/emilygfagan/tableau/blob/main/Capstone.pdf)     
 **Presentation Script:** [`Presentation Script`](https://github.com/emilygfagan/tableau/blob/main/Capstone%20Project%20Script.pdf)     
