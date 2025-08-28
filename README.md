@@ -18,8 +18,7 @@ Here, you'll find projects that reflect my hands-on experience and growth in are
 
 
 ## Contents
-- [Portfolio Projects](#portfolio-projects)
-  - [Cybersecurity Projects](#cybersecurity-projects)
+- [Portfolio Projects](#portfolio-projects)     
   - [PowerShell AD Automation Toolkit](#powershell-ad-automation-toolkit)
   - [Active Directory Lab - Fagan Systems](#active-directory-lab---fagan-systems)
   - [Python Calculator Project](#python-calculator)     
