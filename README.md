@@ -18,8 +18,7 @@ Here, you'll find projects that reflect my hands-on experience and growth in are
 
 
 ## Contents
-- [Portfolio Projects](#portfolio-projects)
-  - [Cybersecurity Projects](#cybersecurity-projects)      
+- [Portfolio Projects](#portfolio-projects)  
   - [PowerShell AD Automation Toolkit](#powershell-ad-automation-toolkit)
   - [Active Directory Lab - Fagan Systems](#active-directory-lab---fagan-systems)
   - [Python Calculator Project](#python-calculator)     
@@ -51,16 +50,6 @@ Here, you'll find projects that reflect my hands-on experience and growth in are
 ## Portfolio Projects
 
 Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.     
-
-
-
-### Cybersecurity Projects
-
-**Repository Link:** [`cybersecurity-projects`](https://github.com/emilygfagan/cybersecurity-projects/blob/main/README.md)       
-
-**Description:** (IN PROGRESS) Hands-on cybersecurity projects including honeypots, honeyfiles, and detection tools.       
-
-**Skills Used:**      
 
 
 
