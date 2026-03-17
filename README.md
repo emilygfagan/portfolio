@@ -1,12 +1,9 @@
 # Emily Fagan – Portfolio           
 
-*This portfolio is updated regularly to reflect my current technical focus and ongoing learning.*      
+*This portfolio is updated regularly to reflect my current technical focus and ongoing learning. I am currently focused on Microsoft 365 administration and compliance -- preparing for the SC-401 and SC-300 certifications.*          
 
 **Welcome!**                  
-This portfolio reflects my progression in IT, systems administration, and technical support as I continue expanding my technical skill set. I am currently pursuing a Master’s in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham.            
-
-**Currently...**         
-I am currently focused on Microsoft 365 administration and compliance, including SC‑401 preparation, with a continued interest in data management and information protection.        
+This portfolio reflects my progression in IT, systems administration, and technical support as I continue expanding my technical skill set. I am currently pursuing a Master’s in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham.                
 
 The projects included here represent my foundational work in areas such as:            
 - Active Directory and identity management
