@@ -1,14 +1,19 @@
 # Emily Fagan – Portfolio           
 
-**Welcome!**                 
-This portfolio showcases my journey into IT, systems administration, and technical support. I’m currently pursuing a Master’s in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham.         
+*This portfolio is updated regularly to reflect my current technical focus and ongoing learning.*      
 
-Here, you'll find projects that reflect my hands-on experience and growth in areas such as:       
-- Active Directory domain setup and user/group management  
-- Windows Server administration and Group Policy configuration  
-- PowerShell operations and scripting  
-- SQL-based database design and querying  
-- Python scripting using Pandas, NumPy, GUI frameworks, and API integration 
+**Welcome!**                  
+This portfolio reflects my progression in IT, systems administration, and technical support as I continue expanding my technical skill set. I am currently pursuing a Master’s in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham.            
+
+**Currently...**         
+I am currently focused on Microsoft 365 administration and compliance, including SC‑401 preparation, with a continued interest in data management and information protection.        
+
+The projects included here represent my foundational work in areas such as:            
+- Active Directory and identity management
+- Windows Server administration and Group Policy configuration
+- PowerShell scripting and task automation
+- SQL-based database design and querying
+- Python scripting for data handling, automation, and application integration           
 
 
 ## Contents
