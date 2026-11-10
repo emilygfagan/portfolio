@@ -44,7 +44,7 @@ The projects included here represent my foundational work in areas such as:
 
 ## Portfolio Projects
 
-Linked below are my favorite projects. I include a brief explanation, skills used, and technology used.     
+Linked below are my recent projects. I include a brief explanation, skills used, and technology used.     
 
 
 
