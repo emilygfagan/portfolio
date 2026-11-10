@@ -1,16 +1,15 @@
 # Emily Fagan – Portfolio           
 
-*This portfolio is updated regularly to reflect my current technical focus and ongoing learning.*          
-
 **Welcome!**                  
-This portfolio reflects my progression in IT, systems administration, and technical support as I continue expanding my technical skill set. I am currently pursuing a Master’s in Management Information Systems with a concentration in Cybersecurity at the University of Alabama at Birmingham.                
+This portfolio reflects my progression in data analytics, programming, and systems administration as I continue expanding my technical skill set. I graduate from the University of Alabama at Birmingham in December 2026 with a Master’s in Management Information Systems/Cybersecurity.                
 
 The projects included here represent my foundational work in areas such as:            
 - Active Directory and identity management
 - Windows Server administration and Group Policy configuration
 - PowerShell scripting and task automation
 - SQL-based database design and querying
-- Python scripting for data handling, automation, and application integration           
+- Python for data analysis
+- Tableau for data visualization            
 
 
 ## Contents
